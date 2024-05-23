@@ -13,3 +13,9 @@ I am a sixth-semester student at the Informatics Engineering Study Program. My m
 
 
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=Priboen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
+![alt](https://github-readme-streak-stats.herokuapp.com/?user=Priboen&theme=tokyonight&hide_border=true)
