@@ -7,12 +7,15 @@ I am a sixth-semester student at the Informatics Engineering Study Program. My m
 - 🌱 I’m currently learning Mobile App Development using Flutter Framework
 
 
-## GitHub Stats
+
 
 
 
 
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=Priboen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+## GitHub Stats
 
 
 
