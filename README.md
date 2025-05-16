@@ -15,6 +15,7 @@
 </div>
 
 ###
+## Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -51,6 +52,8 @@
 </div>
 
 ###
+
+## Statistics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=priboen&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
